@@ -38,7 +38,6 @@
 		CBCFC56E2991819700BB44FE = {
 			isa = PBXGroup;
 			children = (
-				CBCFC5892991888100BB44FE /* Model.swift */,
 				CBCFC5792991819700BB44FE /* Example */,
 				CBCFC5782991819700BB44FE /* Products */,
 			);
@@ -56,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				CBCFC5882991849400BB44FE /* Example.entitlements */,
+				CBCFC5892991888100BB44FE /* Model.swift */,
 				CBCFC57A2991819700BB44FE /* ExampleApp.swift */,
 				CBCFC57C2991819700BB44FE /* ContentView.swift */,
 				CBCFC57E2991819700BB44FE /* Assets.xcassets */,
